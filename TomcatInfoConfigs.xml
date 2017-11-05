@@ -1,0 +1,29 @@
+<application>
+  <component name="TomcatInfoConfigs">
+    <option name="current">
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat 9.0.1" />
+        <option name="path" value="$USER_HOME$/Tomcat" />
+        <option name="version" value="9.0.1.0" />
+      </TomcatInfo>
+    </option>
+    <option name="tomcatInfos">
+      <list>
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 9.0.1" />
+          <option name="path" value="$USER_HOME$/Tomcat" />
+          <option name="version" value="9.0.1.0" />
+        </TomcatInfo>
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 9.0.1" />
+          <option name="number" value="1" />
+          <option name="path" value="$USER_HOME$/Tomcat" />
+          <option name="version" value="9.0.1.0" />
+        </TomcatInfo>
+        <TomcatInfo>
+          <option name="path" value="$USER_HOME$/eclipse/MyWorkSpace/src" />
+        </TomcatInfo>
+      </list>
+    </option>
+  </component>
+</application>
